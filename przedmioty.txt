@@ -1,0 +1,4 @@
+1. logika zaawansowana
+2. algebra liniowa
+3. PWI
+4. analiza matematyczna
